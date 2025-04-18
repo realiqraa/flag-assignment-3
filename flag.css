@@ -1,0 +1,23 @@
+.upper{
+    width: 400px;
+    height: 200px;
+    border: 2px solid black;
+}
+.a{
+    height: 100px;
+    width: 400px;
+    background-color: #ed1b24;
+}
+.b{
+    height: 100px;
+    width: 400px;
+    background-color: #00a650;
+}
+.centre{
+    background-color: #ffffff;
+    height: 200px;
+    width: 100px;
+    position: absolute;
+    top: 10px;
+    left: 10px;
+}
